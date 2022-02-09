@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout-w900dp/article_list.xml" value="0.10416666666666667" />
+        <entry key="app/src/main/res/layout/activity_article_details.xml" value="0.11979166666666667" />
+        <entry key="app/src/main/res/layout/activity_article_list.xml" value="0.11979166666666667" />
+        <entry key="app/src/main/res/layout/article_list.xml" value="0.1381340579710145" />
+        <entry key="app/src/main/res/layout/fragment_article_details.xml" value="0.1381340579710145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
