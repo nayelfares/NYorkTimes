@@ -11,7 +11,7 @@
 2- Robolectric for Room DB
 
 #### How To Run
-1- import with Android Studio https://github.com/nayelfares/NYTimes.git
+1- import with Android Studio https://github.com/nayelfares/NYorkTimes.git
 2- Download and Sync Gradle and Click on Run.
 
 #### NY Times account
